@@ -32,6 +32,10 @@ Hollywood movies and music play a significant role in perpetuating the glamoriza
 
 - **Music:** Many popular songs celebrate drug use or mention it in a positive light, making it seem like a normal and desirable part of the music industry. This can influence listeners' perceptions and behavior.
 
+## Coca-Cola
+
+Coca-Cola claimed that they used Cocaine in order to market their product which also promotes cocaine. Similar to a shared business promotion between two companies, Coca-cola works with Cocaine.
+
 ## What We Can Do
 
 1. **Education:** We need to educate ourselves and others about the true risks and consequences of street drugs, focusing on accurate information rather than glamorization.
