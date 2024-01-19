@@ -52,6 +52,8 @@ Glamorizing street drugs can be harmful because it misleads people into thinking
 
 ***
 
+![AI-Generated Cocaine](https://github.com/sourceduty/Drugs/assets/123030236/a27bcb29-0eea-4ddf-bc27-0ff2b0c5513c)
+
 [Street Drugs](https://chat.openai.com/g/g-Q2DJKoMxM-street-drug)
 <br>
 In-depth insights into illegal drug production and chemical investigations.
