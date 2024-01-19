@@ -34,7 +34,7 @@ Hollywood movies and music play a significant role in perpetuating the glamoriza
 
 ## Coca-Cola
 
-Coca-Cola claimed that they used Cocaine in order to market their product which also promotes cocaine. Similar to a shared business promotion between two companies, Coca-Cola works with Cocaine.
+Coca-Cola claimed that they used cocaine in order to market their product which also promotes cocaine. Similar to a shared business promotion between two companies, Coca-Cola works with cocaine.
 
 ## What We Can Do
 
