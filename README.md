@@ -45,3 +45,9 @@ Hollywood movies and music play a significant role in perpetuating the glamoriza
 ## Conclusion
 
 Glamorizing street drugs can be harmful because it misleads people into thinking they are safe or exciting. We must be aware of this glamorization and take steps to educate ourselves and others about the real risks associated with street drugs. By doing so, we can make informed choices and protect our health and well-being.
+
+***
+
+[Street Drugs](https://chat.openai.com/g/g-Q2DJKoMxM-street-drug)
+<br>
+In-depth insights into illegal drug production and chemical investigations.
