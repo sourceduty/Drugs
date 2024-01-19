@@ -24,7 +24,7 @@ Glamorization means making something look cool or exciting, even when it might b
 
 4. **Health Risks:** Street drugs can damage your body, brain, and overall well-being. Believing they are glamorous may prevent people from understanding the real dangers they pose.
 
-## More on Hollywood Movies and Music
+## Hollywood Movies and Music
 
 Hollywood movies and music play a significant role in perpetuating the glamorization of street drugs. Here are some additional points to consider:
 
