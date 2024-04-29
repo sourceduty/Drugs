@@ -4,6 +4,8 @@
 
 This report aims to shed light on the glamorization of street drugs and how it can affect people's perception of these substances. We will discuss why this glamorization is concerning and why it's essential to be aware of its consequences.
 
+#
+
 <details><summary>Glamorization of Street Drugs</summary>
 <br>
 
