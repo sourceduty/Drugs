@@ -1,7 +1,5 @@
 ![Drugs](https://github.com/sourceduty/Drugs/assets/123030236/9e1ecaa6-473c-45ba-9e48-dcfb3357a962)
 
-### Introduction
-
 This report aims to shed light on the glamorization of street drugs and how it can affect people's perception of these substances. We will discuss why this glamorization is concerning and why it's essential to be aware of its consequences.
 
 #
