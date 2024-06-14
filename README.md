@@ -2,11 +2,6 @@
 
 This report aims to shed light on the glamorization of street drugs and how it can affect people's perception of these substances. We will discuss why this glamorization is concerning and why it's essential to be aware of its consequences.
 
-#
-
-<details><summary>Glamorization of Street Drugs</summary>
-<br>
-
 ### Glamorization of Street Drugs
 
 Street drugs are substances that people use to change the way they feel or think, but they are not prescribed by doctors. Examples include marijuana, cocaine, heroin, and methamphetamine. Many street drugs are illegal because they can be harmful to our health and safety.
@@ -53,8 +48,8 @@ Glamorizing street drugs can be harmful because it misleads people into thinking
 
 ![AI-Generated Cocaine](https://github.com/sourceduty/Drugs/assets/123030236/a27bcb29-0eea-4ddf-bc27-0ff2b0c5513c)
 
-<br>    
-</details>
+#
+### Notes
 
 <details><summary>Drug Decriminalization</summary>
 <br>
