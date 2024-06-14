@@ -128,7 +128,7 @@ While increased enforcement efforts can help reduce the availability of illicit 
 
 [Street Drugs](https://chat.openai.com/g/g-Q2DJKoMxM-street-drug)
 <br>
-In-depth insights into illegal drug production and chemical investigations.
+[Cannabis](https://github.com/sourceduty/Cannabis)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
