@@ -124,7 +124,8 @@ While increased enforcement efforts can help reduce the availability of illicit 
 <br>    
 </details>
 
-***
+#
+### Related Links
 
 [Street Drugs](https://chat.openai.com/g/g-Q2DJKoMxM-street-drug)
 <br>
