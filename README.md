@@ -125,6 +125,8 @@ While increased enforcement efforts can help reduce the availability of illicit 
 [Street Drug](https://chat.openai.com/g/g-Q2DJKoMxM-street-drug)
 <br>
 [Cannabis](https://github.com/sourceduty/Cannabis)
+<br>
+[Guns](https://github.com/sourceduty/Guns)
 
 #
 
