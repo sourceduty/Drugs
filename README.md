@@ -122,5 +122,9 @@ While increased enforcement efforts can help reduce the availability of illicit 
 <br>
 [Cannabis](https://github.com/sourceduty/Cannabis)
 
+#
+
+![Hot Pink X Pills](https://github.com/user-attachments/assets/23f151f7-dd31-4ae1-b992-59a7464f890e)
+
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
