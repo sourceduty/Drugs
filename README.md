@@ -50,7 +50,9 @@ Coca-Cola claimed that they used cocaine in order to market their product which 
 
 Glamorizing street drugs can be harmful because it misleads people into thinking they are safe or exciting. We must be aware of this glamorization and take steps to educate ourselves and others about the real risks associated with street drugs. By doing so, we can make informed choices and protect our health and well-being.
 
-![AI-Generated Cocaine](https://github.com/sourceduty/Drugs/assets/123030236/a27bcb29-0eea-4ddf-bc27-0ff2b0c5513c)
+#
+
+![Tar Injection](https://github.com/user-attachments/assets/50d502c5-5ab5-4c42-8cbe-318379e95ec8)
 
 #
 ### Notes
