@@ -4,11 +4,7 @@
 
 #
 
-This report aims to shed light on the glamorization of street drugs and how it can affect people's perception of these substances. We will discuss why this glamorization is concerning and why it's essential to be aware of its consequences.
-
-### Glamorization of Street Drugs
-
-Street drugs are substances that people use to change the way they feel or think, but they are not prescribed by doctors. Examples include marijuana, cocaine, heroin, and methamphetamine. Many street drugs are illegal because they can be harmful to our health and safety.
+This report aims to shed light on the glamorization of street drugs and how it can affect people's perception of these substances. We will discuss why this glamorization is concerning and why it's essential to be aware of its consequences. Street drugs are substances that people use to change the way they feel or think, but they are not prescribed by doctors. Examples include marijuana, cocaine, heroin, and methamphetamine. Many street drugs are illegal because they can be harmful to our health and safety.
 
 #
 ### Makeshift Drug Labs
