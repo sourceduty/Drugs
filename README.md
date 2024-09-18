@@ -142,6 +142,10 @@ While increased enforcement efforts can help reduce the availability of illicit 
 ![AI Coke](https://github.com/user-attachments/assets/4ac1f749-13b2-456e-aeed-3949717b6fcb)
 
 #
+
+![Brain Pow](https://github.com/user-attachments/assets/c354c75e-e0b3-4357-b96c-6934442e0aea)
+
+#
 ### Related Links
 
 [Street Drug](https://chat.openai.com/g/g-Q2DJKoMxM-street-drug)
