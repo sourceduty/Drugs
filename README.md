@@ -38,7 +38,7 @@ Glamorization means making something look cool or exciting, even when it might b
 #
 ### Hollywood Movies, Video Games and Music
 
-![AI Coke](https://github.com/user-attachments/assets/4ac1f749-13b2-456e-aeed-3949717b6fcb)
+![Drugs](https://github.com/user-attachments/assets/5da62789-3d97-439b-b973-91683bbee0d9)
 
 Hollywood movies and music play a significant role in perpetuating the glamorization of street drugs. Here are some additional points to consider:
 
@@ -136,6 +136,10 @@ While increased enforcement efforts can help reduce the availability of illicit 
 
 <br>    
 </details>
+
+#
+
+![AI Coke](https://github.com/user-attachments/assets/4ac1f749-13b2-456e-aeed-3949717b6fcb)
 
 #
 ### Related Links
