@@ -18,7 +18,9 @@ The presence of makeshift drug labs poses significant risks to public health and
 Globally, the proliferation of makeshift drug labs reflects broader socio-economic issues, such as poverty, lack of education, and limited employment opportunities, which drive individuals towards illegal drug production as a means of livelihood. Regions with weak law enforcement, corruption, or political instability often see higher numbers of these labs. As synthetic drugs become increasingly popular and profitable, the demand for makeshift drug labs is likely to persist, presenting ongoing challenges for authorities and communities trying to curb drug abuse and its associated harms.
 
 #
-### Glamorization
+### Drug Glamorization
+
+![Formal Cocaine Party](https://github.com/user-attachments/assets/532ff978-df9a-4259-83b1-469b91d98835)
 
 Glamorization means making something look cool or exciting, even when it might be harmful or dangerous. When Hollywood movies, music, social media, and popular culture show people using street drugs in a positive or attractive way, it can make them seem appealing to young and impressionable minds.
 
@@ -34,7 +36,9 @@ Glamorization means making something look cool or exciting, even when it might b
 4. **Health Risks:** Street drugs can damage your body, brain, and overall well-being. Believing they are glamorous may prevent people from understanding the real dangers they pose.
 
 #
-### Hollywood Movies and Music
+### Hollywood Movies, Video Games and Music
+
+![AI Coke](https://github.com/user-attachments/assets/4ac1f749-13b2-456e-aeed-3949717b6fcb)
 
 Hollywood movies and music play a significant role in perpetuating the glamorization of street drugs. Here are some additional points to consider:
 
