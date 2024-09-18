@@ -150,7 +150,5 @@ While increased enforcement efforts can help reduce the availability of illicit 
 <br>
 [Guns](https://github.com/sourceduty/Guns)
 
-#
-
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
