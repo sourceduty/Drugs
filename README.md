@@ -45,6 +45,8 @@ Hollywood movies and music play a significant role in perpetuating the glamoriza
 #
 ### Coca-Cola
 
+![Coca-Cola](https://github.com/user-attachments/assets/24886792-f6ed-44fa-9cc2-ae691d7b298d)
+
 Coca-Cola claimed that they used cocaine in order to market their product which also promotes cocaine. Similar to a shared business promotion between two companies, Coca-Cola works with cocaine.
 
 #
