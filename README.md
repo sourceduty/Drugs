@@ -76,7 +76,7 @@ Glamorizing street drugs can be harmful because it misleads people into thinking
 <details><summary>Drug Decriminalization</summary>
 <br>
 
-![Office Worker Cocaine Party](https://github.com/sourceduty/Drugs/assets/123030236/1c83887c-ab3e-4a84-8c5a-0772d794eeda)
+![Hot Pink X Pills](https://github.com/user-attachments/assets/23f151f7-dd31-4ae1-b992-59a7464f890e)
 
 The impact of decriminalization policies on drug use and related outcomes varies significantly based on geographic, cultural, and socioeconomic contexts. In regions such as British Columbia, Canada, which recently allowed individuals aged 18 and over to possess up to 2.5 grams of certain illicit substances, including opioids, cocaine, methamphetamine, and MDMA, the primary goals are to reduce stigma, decrease the burden on the criminal justice system, and improve public health outcomes.
 
@@ -151,8 +151,6 @@ While increased enforcement efforts can help reduce the availability of illicit 
 [Guns](https://github.com/sourceduty/Guns)
 
 #
-
-![Hot Pink X Pills](https://github.com/user-attachments/assets/23f151f7-dd31-4ae1-b992-59a7464f890e)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
