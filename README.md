@@ -140,7 +140,7 @@ While increased enforcement efforts can help reduce the availability of illicit 
 #
 ![AI Coke](https://github.com/user-attachments/assets/4ac1f749-13b2-456e-aeed-3949717b6fcb)
 
-This DALL-E generated cocaine image can be considered problematic, as it potentially glamorizes illegal drug use and violence, which is against ethical guidelines for content creation, particularly in AI models. OpenAI’s models, such as ChatGPT and DALL-E 3, are have probably now changed to avoid generating or endorsing such harmful depictions, adhering to safety standards that prevent the encouragement of illegal or dangerous activities.
+This DALL-E generated cocaine image can be considered problematic, as it potentially glamorizes illegal drug use and violence, which is against ethical guidelines for content creation, particularly in AI models. OpenAI’s models, such as ChatGPT and DALL-E 3 have probably now changed to avoid generating or endorsing such harmful depictions, adhering to safety standards that prevent the encouragement of illegal or dangerous activities.
 
 #
 ![Brain Pow](https://github.com/user-attachments/assets/c354c75e-e0b3-4357-b96c-6934442e0aea)
