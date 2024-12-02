@@ -152,6 +152,8 @@ This DALL-E generated cocaine image can be considered problematic, as it potenti
 [Cannabis](https://github.com/sourceduty/Cannabis)
 <br>
 [Guns](https://github.com/sourceduty/Guns)
+<br>
+[Bud Business](https://github.com/sourceduty/Bud_Business)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
